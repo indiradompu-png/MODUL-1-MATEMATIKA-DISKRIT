@@ -26,5 +26,15 @@
   - AND
   - OR
   - XOR
+  - IF
+  - ELSE
+
+ # MENJALANKAN PROGRAM
+   pastikan python sudah terinstal 
+
+ # WINDOWS
+  tekan cari + R lalu muncul cmd untuk membuka command prompt dengan cara ketik python nama_file.py
+
+  
   
  
